@@ -1,0 +1,1 @@
+修改frida-gadget为fr0da-gadg0t以及文件读取位置
